@@ -2,6 +2,7 @@
 #& xssg lifetime 188.166.255.146
 #& xsmy lifetime 124.217.247.110
 #& force lifetime 15.235.142.216
-#& freevpn lifetime 139.99.75.109
+#& xsfvpn lifetime 139.99.75.109
+#& ezfvpn lifetime 139.99.74.213
 
 
